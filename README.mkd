@@ -1,7 +1,7 @@
 
 # Bouncy Beluga
 
-An implementation of Flappy Bird in Swift for iOS 8.
+An implementation of Flappy Bird in Swift for iOS 10.
 
 
 # Based off code by
